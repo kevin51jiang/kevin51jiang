@@ -1,6 +1,4 @@
-[![Kevin's github stats](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Red.svg/1200px-Red.svg.png)][![Kevin's github stats](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Red.svg/1200px-Red.svg.png)]
-
-
+![red square](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Red.svg/200px-Red.svg.png)![red square](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Red.svg/200px-Red.svg.png)
 <!--
 **kevin51jiang/kevin51jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
