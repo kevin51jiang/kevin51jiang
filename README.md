@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin51jiang)](https://github.com/kevin51jiang)
+
+
 <!--
 **kevin51jiang/kevin51jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
