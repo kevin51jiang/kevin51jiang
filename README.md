@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![jotte](logo@2x.png)
+![jotte](logo-text@2x.png)
 
 🔭 I’m currently working on [https://jotte.ai](jotte.ai), an AI text writing application with an infinite charcter limit.
