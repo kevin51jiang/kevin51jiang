@@ -1,4 +1,4 @@
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin51jiang)](https://github.com/kevin51jiang)
+<!-- [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin51jiang)](https://github.com/kevin51jiang) -->
 <!--
 **kevin51jiang/kevin51jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on [https://jotte.ai](jotte.ai), an AI text writing application with an infinite charcter limit.
