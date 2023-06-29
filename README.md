@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![jotte](logo-text@2x.png)
-
-🔭 I’m currently working on [jotte.ai](https://jotte.ai), an AI text writing application with an infinite charcter limit.
