@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-Hi, I'm Kevin. A recovering JS addict with an obsession of automation and rabbit holes. 
+Hi, I'm Kevin. 
+
+A recovering JS addict with an obsession of automation and rabbit holes. 
 
 Check out my [today I learned website](https://kevinjiang.ca/til/) for whatever I'm thinking about recently.
